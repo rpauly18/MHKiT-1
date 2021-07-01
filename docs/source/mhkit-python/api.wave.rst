@@ -177,6 +177,8 @@ The graphics submodule contains functions to plot wave data and related metrics.
    ~mhkit.wave.graphics.plot_environmental_contour
    ~mhkit.wave.graphics.plot_compendium
    ~mhkit.wave.graphics.plot_boxplot
+   ~mhkit.wave.graphics.monthly_cumulative_distribution
+   ~mhkit.wave.graphics.plot_avg_annual_energy_matrix
    
 .. automodule:: mhkit.wave.graphics
     :members:
